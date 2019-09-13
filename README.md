@@ -7,3 +7,7 @@ Allows to install/activate/deactivate/remove custom plugins from zip archive
 
 ### Repository
 You can find this plugin [here](https://github.com/sawfly/wp-custom-plugin-installer)
+
+### Wiki:
+1. [Routes](https://github.com/sawfly/wp-custom-plugin-installer/wiki/Routes)
+2. [Examples](https://github.com/sawfly/wp-custom-plugin-installer/wiki/Examples)
