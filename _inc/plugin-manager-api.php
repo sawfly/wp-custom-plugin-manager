@@ -1,12 +1,12 @@
 <?php
 
 /**
- * Class Matomo_Configurator_API
+ * Class Plugin_Manager_API
  */
-class Plugin_Installer_API extends WP_REST_Controller
+class Plugin_Manager_API extends WP_REST_Controller
 {
     /**
-     * @var Plugin_Installer_Manager
+     * @var Plugin_Manager_Manager
      */
     protected $pluginInstallerManager;
 
@@ -33,7 +33,7 @@ class Plugin_Installer_API extends WP_REST_Controller
     public function register_routes()
     {
         $version = '1';
-        $namespace = 'plugin-installer/v' . $version;
+        $namespace = 'plugin-manager/v' . $version;
         register_rest_route(
             $namespace,
             '/install',

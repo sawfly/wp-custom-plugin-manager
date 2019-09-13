@@ -3,9 +3,9 @@
 /**
  * Class Plugin_Installer_Manager
  */
-class Plugin_Installer_Active_Plugin
+class Plugin_Manager_Active_Plugin
 {
-    use Plugin_Installer_Plugin_Name_Finder_Trait;
+    use Plugin_Manager_Plugin_Name_Finder_Trait;
 
     /**
      * @var string

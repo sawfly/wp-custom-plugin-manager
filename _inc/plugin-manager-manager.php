@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Class Plugin_Installer_Manager
+ * Class Plugin_Manager_Manager
  */
-class Plugin_Installer_Manager
+class Plugin_Manager_Manager
 {
-    use Plugin_Installer_Plugin_Name_Finder_Trait;
+    use Plugin_Manager_Plugin_Name_Finder_Trait;
 
     /**
      * @var ZipArchive

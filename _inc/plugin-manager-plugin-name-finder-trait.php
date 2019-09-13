@@ -1,10 +1,10 @@
 <?php
 
 /**
- * Trait Plugin_Installer_Plugin_Name_Finder_Trait
+ * Trait Plugin_Manager_Plugin_Name_Finder_Trait
  * Find Plugin Name in file that passed by file pointer
  */
-trait Plugin_Installer_Plugin_Name_Finder_Trait
+trait Plugin_Manager_Plugin_Name_Finder_Trait
 {
     /**
      * Looks for Plugin Name inside comment in php code

@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Class Plugin_Installer_Manager
+ * Class Plugin_Manager_Manager
  */
-class Plugin_Installer_Active_Plugins
+class Plugin_Manager_Active_Plugins
 {
     /**
      * @var string
