@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Plugin Manager
+ * Plugin Name: Custom Plugin Manager
  * Description: Plugin provides possibility to install custom plugins from zip archive via API
  * Version: 1.0.0
  */
